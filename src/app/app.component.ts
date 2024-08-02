@@ -9,14 +9,11 @@ export class AppComponent {
   img =
     'https://fdn.gsmarena.com/imgroot/news/23/09/samsung-galaxy-s24-design-renders/inline/-1200/gsmarena_002.jpg';
   title = 'Samsung S24';
-  price = '79,999';c=0
+  price = '79,999';
   isNotAvailable = false;
   fun()
   {
     alert("button clicked")
   }
-  incr()
-  {
-
-  }
+  
 }
